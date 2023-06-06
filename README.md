@@ -41,7 +41,9 @@ python test_finetuned_FN.py
 
 
 ### External Resources
-Download FrameNet data to './framenet/', e.g. 'fndata-1.7.zip', and unzip it. Run `create_heirarchy.py`. 
+Download FrameNet data to './framenet/', e.g. 'fndata-1.7.zip', and unzip it. Run `python create_heirarchy.py`. 
+
+The code assumes that ACE05 data files are located at ``../../../ACE05EN/source``. Please change this to your local ACE05 path. 
 
 ### Citation
 If you found our work useful, please cite:
