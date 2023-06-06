@@ -1,0 +1,66 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+# Rope
+.ropeproject
+
+# Django stuff:
+*.log
+*.pot
+
+# Sphinx documentation
+docs/_build/
+
+
+# Data stuff
+backtranslations/*
+framenet/fndata-1.7
+framenet/fn_definitions.csv
+framenet/fn_examples.csv
+framenet/fn_heirarchy.adjlist
+framenet/fndata-1.7.zip
+model_output/*
+nohup.out
+nohup_fn.out
+nohup_name.out
+process_cosine_silhouette.py
+figures/
+SBERT_embeddings_allmentions.pkl

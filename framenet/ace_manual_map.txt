@@ -1,0 +1,34 @@
+ACE,Frame,Notes
+Appeal,Appeal
+Be-Born,Birth_scenario
+Charge-Indict,Notification_of_charges,"charge.n, charge.v, and indict.v are lexical units of Notification_of_charges"
+Convict,Verdict,"convict.v is a lexical unit of Verdict"
+Declare-Bankruptcy,Wealthiness,"bankrupt.a is a lexical unit of Wealthiness"
+Demonstrate,Protest,"Protest seems to be the most semantically related frame for the ACE meaning of demonstrate"
+Divorce,Personal_relationship,"There isn't a more specific frame. Forming_relationships is a candidate, but it seems inappropriate."
+End-Org,Organization|Process_end,"Both frames are needed to describe this"
+Extradite,Extradition
+Fine,Fining
+Injure,Cause_harm|Experience_bodily_harm
+Marry,Forming_relationships,"Personal_relationship could be relevant, but it is covered by divorce."
+Nominate,Appointing,"nominate.v is a lexical unit of Appointing"
+Phone-Write,Contacting,"contacting includes both phone and write"
+Release-Parole,Releasing_from_custody,"Releasing is too general."
+Start-Org,Organization|Process_start,"Same reasoning as End-Org"
+Start-Position,Being_employed|Process_start
+Sue,Judgment_communication,"There are not any frames that are specific enough."
+Trial-Hearing,Trial
+Pardon,Pardon
+Merge-Org,Organization|Amalgamation
+Acquit,Verdict,"Verdict is the most specific frame and contains acquit.v as a lexical unit."
+Execute,Execution
+Attack,Attack
+Transport,Transportation_status
+Die,Death
+Meet,Make_acquaintance|Meet_with|Come_together
+Arrest-Jail,Arrest|Prison|Imprisonment|Being_incarcerated
+Sentence,Sentencing
+Transfer-Money,Commerce_money-transfer
+Elect,Change_of_leadership|Choosing
+Transfer-Ownership,Commerce_goods-transfer
+End-Position,Being_employed|Process_end
