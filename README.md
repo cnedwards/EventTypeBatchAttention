@@ -30,12 +30,14 @@ python clustering_test.py
 To run name prediction:
 ```
 python main_name.py
+get_stopping_point.py
 python test_finetuned_name.py
 ```
 
 To run FrameNet linking:
 ```
 python main_framenet.py
+get_stopping_point.py
 python test_finetuned_FN.py
 ```
 
