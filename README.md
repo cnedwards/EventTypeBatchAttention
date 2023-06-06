@@ -18,6 +18,7 @@ python generate_SBERT_embeddings.py
 ```
 
 To run the primary method:
+
 Note that these files have variables which need to be updated. 
 ```
 python main.py
@@ -42,7 +43,8 @@ python test_finetuned_FN.py
 ### External Resources
 Download FrameNet data to './framenet/', e.g. 'fndata-1.7.zip', and unzip it. Run `create_heirarchy.py`. 
 
-
+### Citation
+If you found our work useful, please cite:
 ```bibtex
 @inproceedings{edwards-ji-2023-semi,
     title = "Semi-supervised New Event Type Induction and Description via Contrastive Loss-Enforced Batch Attention",
